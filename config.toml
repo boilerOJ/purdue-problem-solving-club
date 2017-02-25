@@ -1,3 +1,19 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://www.purdue.edu"
+title = "Purdue Competitive Programming"
+theme = "vec"
 languageCode = "en-us"
-title = "My New Hugo Site"
+paginate = 15
+
+# Enable comments by entering your Disqus shortname
+# disqusShortname = "Your Disqus shortname"
+
+# Enable analytics by entering your Google Analytics tracking ID
+# googleAnalytics = "Your Google Analytics tracking code"
+
+[params]
+  Keywords = "purdue, competitive, programming"
+  Description = "Purdue Competitive Programming"
+  
+  Avater = "img/avatar.jpg"
+  SelfIntro = "Just a worm, seek for true, live in shadow, no more..." 
+  Email = "you@example.com"
